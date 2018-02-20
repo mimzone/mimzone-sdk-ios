@@ -1,0 +1,11 @@
+framework module MimZoneSDK {
+  umbrella header "MimZoneSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module MimZoneSDK.Swift {
+    header "MimZoneSDK-Swift.h"
+    requires objc
+}
