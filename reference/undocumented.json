@@ -1,0 +1,82 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 12,
+      "symbol": "WorkTime.infinite",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 13,
+      "symbol": "WorkTime.seconds5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 14,
+      "symbol": "WorkTime.seconds10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 15,
+      "symbol": "WorkTime.seconds15",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 16,
+      "symbol": "WorkTime.seconds30",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 17,
+      "symbol": "WorkTime.seconds45",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 18,
+      "symbol": "WorkTime.seconds60",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 19,
+      "symbol": "WorkTime.minutes5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Enums.swift",
+      "line": 20,
+      "symbol": "WorkTime.minutes10",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/Protocols.swift",
+      "line": 11,
+      "symbol": "ServiceDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK/MimZoneSDK/SDK.swift",
+      "line": 12,
+      "symbol": "SDK",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/ben/Projects/iOS/mim-sdk-ios/MimZoneSDK"
+}
