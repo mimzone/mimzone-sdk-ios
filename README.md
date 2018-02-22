@@ -5,4 +5,4 @@ In this repository you will find documentation and examples but not the SDK's co
 - Read [Getting Started](https://github.com/mimzone/mimzone-ios-android/wiki/Getting-Started) on the wiki
 - Find a working demo app on [/demo](demo) (compiled [demo.ipa](demo.ipa))
 - Download the [MimZoneSDK.framework](MimZoneSDK.framework)
-- Find a Jazzy-generated reference of the SDK code in [/reference](reference)
+- [Read the Jazzy-generated reference of the SDK](https://mimzone.github.io/mimzone-sdk-ios/reference/) code in [/reference](reference)
